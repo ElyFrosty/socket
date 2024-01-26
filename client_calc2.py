@@ -1,6 +1,6 @@
 import socket
 import json
-
+ 
 HOST= "127.0.0.1" #indirizzo del server
 PORT= 65432 #porta usata dal server
 DIM_BUFFER= 1024
